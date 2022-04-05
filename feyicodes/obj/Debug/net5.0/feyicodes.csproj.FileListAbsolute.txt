@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.exe
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.deps.json
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.runtimeconfig.json
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.runtimeconfig.dev.json
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.dll
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\ref\feyicodes.dll
+C:\Users\hp\Desktop\feyi code 2\feyicodes\bin\Debug\net5.0\feyicodes.pdb
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.AssemblyInfo.cs
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.dll
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\ref\feyicodes.dll
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.pdb
+C:\Users\hp\Desktop\feyi code 2\feyicodes\obj\Debug\net5.0\feyicodes.genruntimeconfig.cache
